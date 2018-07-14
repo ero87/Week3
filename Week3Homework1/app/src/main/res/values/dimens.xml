@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tabsize">25dp</dimen>
+    <dimen name="indicatorsize">0dp</dimen>
+    <dimen name="merginsize">3dp</dimen>
+    <dimen name="imagewidht">80dp</dimen>
+    <dimen name="merginEnd">16dp</dimen>
+    <dimen name="textmergin">164dp</dimen>
+    <dimen name="merginStatus">28dp</dimen>
+    <dimen name="infoheight">200dp</dimen>
+    <dimen name="size_name">40sp</dimen>
+    <dimen name="vertical">60dp</dimen>
+    <dimen name="recyclermargin">43dp</dimen>
+    <dimen name="circlesize">40dp</dimen>
+    <dimen name="namesize">25sp</dimen>
+    <dimen name="floatmargin">5dp</dimen>
+    <dimen name="girl_text_size">20sp</dimen>
+    <dimen name="circl">20dp</dimen>
+    <dimen name="me_mergin">30dp</dimen>
+</resources>
